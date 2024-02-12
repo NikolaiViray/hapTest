@@ -1,0 +1,30 @@
+MESA-INTEL: warning: Haswell Vulkan support is incomplete
+[2874:2874:0212/170229.031994:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.ScreenSaver.GetActive: object_path= /org/freedesktop/ScreenSaver: org.freedesktop.DBus.Error.NotSupported: This method is not implemented
+[2874:2901:0212/170230.731818:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[2916:2916:0212/170244.088630:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[2874:2901:0212/170251.483094:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[2916:2916:0212/170306.096161:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[2916:2916:0212/170306.097850:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+[2874:2901:0212/170341.472157:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[2874:2901:0212/170523.985890:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[2874:2901:0212/170829.389706:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[2874:2901:0212/171451.584061:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[2874:2901:0212/172451.653725:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[2874:2874:0212/172948.852298:ERROR:atom_cache.cc(224)] Add WM_CHANGE_STATE to kAtomsToCache
+[2874:2874:0212/173232.205431:ERROR:CONSOLE(1)] "Uncaught (in promise) SyntaxError: Unexpected token 'H', "HTTP/1.1 4"... is not valid JSON", source: devtools://devtools/bundled/devtools_app.html?remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@3f98d690ad7e59242ef110144c757b2ac4eef1a2/&can_dock=true&targetType=tab (1)
+[2874:2901:0212/173451.655277:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[2874:2901:0212/174451.701692:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[2874:2874:0212/174757.245884:ERROR:atom_cache.cc(224)] Add chromium/from-privileged to kAtomsToCache
+[2874:2901:0212/175451.705607:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[2874:2901:0212/180451.731253:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[2874:2901:0212/181451.799358:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[2874:2901:0212/182451.904140:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[2874:2901:0212/183451.910091:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[2874:2901:0212/184451.916118:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[2874:2874:0212/184748.915591:ERROR:CONSOLE(1)] "Uncaught (in promise) SyntaxError: Unexpected token 'H', "HTTP/1.1 4"... is not valid JSON", source: devtools://devtools/bundled/devtools_app.html?remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@3f98d690ad7e59242ef110144c757b2ac4eef1a2/&can_dock=true&panel=elements&targetType=tab (1)
+[2874:2874:0212/184933.033408:ERROR:CONSOLE(1)] "Uncaught (in promise) SyntaxError: Unexpected token 'H', "HTTP/1.1 4"... is not valid JSON", source: devtools://devtools/bundled/devtools_app.html?remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@3f98d690ad7e59242ef110144c757b2ac4eef1a2/&can_dock=true&panel=elements&targetType=tab (1)
+[2874:2901:0212/185110.171817:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+[2874:2901:0212/185111.266100:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[2874:2901:0212/185114.978698:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+[2874:2901:0212/185149.551789:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+[2874:2901:0212/185653.894368:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
