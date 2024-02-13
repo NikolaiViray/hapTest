@@ -4,8 +4,13 @@
 
 
 body{
+    
     height: 100vh;
     background-color: aqua;
+}
+
+.wholePage{
+    display: flex;
 }
 
 .paragraph {
@@ -13,6 +18,7 @@ body{
     font-size: 30px;
     margin: 10px;
     text-align: center;
+   
 }
 
 .title{
@@ -22,12 +28,14 @@ body{
     margin: 10px;
     padding: 0px;
     
+    
 }
 
 .list{
     border: solid white;
     margin: 10px;
     font-size: 20px;
+    
 }
 
 .button.back:hover{
@@ -36,16 +44,24 @@ body{
 }
 .button.back{
     background-color: aqua;
-    font-size: 30px;
+    font-size: 20px;
     display: flex;
     border: solid white;
-    width: 200px;
+    width: 175px;
     text-align: center;
-    padding: 0px;
+    padding: 10px;
+    padding-left: 20px;
+    height: 50px;
     
-    margin-left: 50px;
+    margin-left: 0px;
 }
 
+.href{
+    
+    display: flex;
+    height: 50px;
+    border: solid white;
+}
 .titleList{
     border: solid white;
     width: 110px;
@@ -56,8 +72,83 @@ body{
 .button.div{
     background-color: lightskyblue;
     text-align: center;
-    padding: 10px;
+    padding:10px;
+    display: flex;
+    height: 57px;
+    display: flex;
+    flex: row;
+    width: 180px;
+    border: solid white;
 }
+
+.imgDiv{
+    border: solid white;
+    display: flex;
+    
+    flex-direction:  row;
+    width: 200px;
+    margin-top: 10px;
+    padding-bottom: 50px; 
+     padding-top: 10px;
+    flex-direction: column;
+    height: 105vh;
+    align-items: center;
+    margin-right: 10px;
+   
+
+}
+
+.cake{
+    display: flex;
+    width: 200px;
+    text-align: center;
+    margin-right: 27px;
+    
+}
+
+.main{
+   
+    display: flex;
+    
+}
+
+.mochi{
+    margin: 10px;
+}
+
+
+.cake2.gif{
+    
+    display: flex;
+    width: 200px;
+    text-align: center;
+    margin-left: -12px;
+    margin-right: 20px;
+
+}
+
+.mochi2.gif{
+    width: 150px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+.imgDiv2{
+    border: solid white;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 90px;
+    margin-left: 10px;
+   
+    
+}
+
+.mainContent{
+    border: solid white;
+    height: 100vh;
+}
+
 
 
 
